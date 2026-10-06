@@ -1,0 +1,22 @@
+2026-10-06 19:54:09,409 - INFO - ETL pipeline started
+2026-10-06 19:55:25,086 - INFO - Books scraped: 1000
+2026-10-06 19:55:34,698 - INFO - Quotes scraped: 100
+2026-10-06 19:55:34,731 - INFO - Records cleaned: 1100
+2026-10-06 19:55:34,741 - INFO - Valid records: 1100
+2026-10-06 19:55:34,742 - INFO - Rejected records: 0
+2026-10-06 19:55:34,756 - INFO - Duplicates removed: 1
+2026-10-06 19:55:34,756 - INFO - Final records: 1099
+2026-10-06 19:55:34,768 - INFO - CSV written to output\final_dataset.csv
+2026-10-06 19:55:34,768 - INFO - Summary written to output\summary_report.json
+2026-10-06 19:55:34,768 - INFO - ETL pipeline completed
+2026-10-06 19:59:54,222 - INFO - ETL pipeline started
+2026-10-06 20:19:40,336 - INFO - Books scraped: 1000
+2026-10-06 20:19:49,721 - INFO - Quotes scraped: 100
+2026-10-06 20:19:49,734 - INFO - Records cleaned: 1100
+2026-10-06 20:19:49,741 - INFO - Valid records: 1100
+2026-10-06 20:19:49,741 - INFO - Rejected records: 0
+2026-10-06 20:19:49,749 - INFO - Duplicates removed: 1
+2026-10-06 20:19:49,749 - INFO - Final records: 1099
+2026-10-06 20:19:49,755 - INFO - CSV written to output\final_dataset.csv
+2026-10-06 20:19:49,756 - INFO - Summary written to output\summary_report.json
+2026-10-06 20:19:49,756 - INFO - ETL pipeline completed

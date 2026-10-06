@@ -1,0 +1,9 @@
+{
+    "books_scraped": 1000,
+    "quotes_scraped": 100,
+    "total_scraped": 1100,
+    "valid_records": 1100,
+    "rejected_records": 0,
+    "duplicates_removed": 1,
+    "final_records": 1099
+}
